@@ -1,6 +1,6 @@
 ### Hi there 👋, I am Pran Gobinda Chakrabarty
 #### Web Developer
-![Web Developer](https://gobinda-cb.web.app/assets/1%20(3)-PD34cwSs.png)
+![Web Developer](https://i.ibb.co/kyc8xYq/banner.png)
 
 Hello! I am a passionate junior web developer specializing in frontend and full-stack development.
 I have hands-on experience with the MERN stack (MongoDB, Express.js, React, Node.js)
@@ -14,6 +14,7 @@ Skills:   REACT / JS / HTML / CSS / NODE / EXPRESS / TAILWIND / FIREBASE / MONGO
 - 🤔 I’m looking for help with Entern, Job online 
 - 💬 Ask me about Web Development 
 - 📫 How to reach me: p.gobinda.cb@gmail.com 
+- ⚡ Fun fact: I am masters at Accounting 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/gobindacb)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/pran-gobinda-chakrabarty//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/gobinda.chakrabarty.9?mibextid=ZbWKwL)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://gobinda-cb.web.app/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/gobinda.cb/?igsh=MXYyMmJycmc4NGVwMw%3D%3D)  
@@ -31,5 +32,4 @@ Skills:   REACT / JS / HTML / CSS / NODE / EXPRESS / TAILWIND / FIREBASE / MONGO
 ![GitHub metrics](https://metrics.lecoq.io/https://github.com/gobindacb)  
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=https://github.com/gobindacb)  
-
 
